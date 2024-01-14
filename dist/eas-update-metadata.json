@@ -1,0 +1,28 @@
+{
+  "updates": [
+    {
+      "id": "f3004649-4272-469b-ae7c-89bec03cb705",
+      "createdAt": "2024-01-14T15:16:22.149Z",
+      "group": "c23989df-52bb-4462-8f5c-a0f9367c89b3",
+      "branch": "production",
+      "message": "Fixes typo",
+      "runtimeVersion": "1.0.0",
+      "platform": "android",
+      "manifestPermalink": "https://u.expo.dev/update/f3004649-4272-469b-ae7c-89bec03cb705",
+      "isRollBackToEmbedded": false,
+      "gitCommitHash": null
+    },
+    {
+      "id": "f804f9b6-2eb5-43ba-bdc1-b6b60f0009d4",
+      "createdAt": "2024-01-14T15:16:22.149Z",
+      "group": "c23989df-52bb-4462-8f5c-a0f9367c89b3",
+      "branch": "production",
+      "message": "Fixes typo",
+      "runtimeVersion": "1.0.0",
+      "platform": "ios",
+      "manifestPermalink": "https://u.expo.dev/update/f804f9b6-2eb5-43ba-bdc1-b6b60f0009d4",
+      "isRollBackToEmbedded": false,
+      "gitCommitHash": null
+    }
+  ]
+}
